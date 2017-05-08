@@ -4,15 +4,15 @@ PHP library for communicating with ZKFinger SDK
 ## License
 The software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
-# Notes
+## Notes
 This project only support a subset of the undocumented (or poorly documented) ZKFinger SDK.
 The SDK have lots of version that differs in the transmitted data structure, 
 hence it would need some adjustment according to your device.
 
-#Requirements
+## Requirements
 This library relies on PHP SOAP, PHP Socket, and PHP cURL extentions to work properly.
 
-# Usage
+## Usage
 
 ```PHP
 
